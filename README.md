@@ -63,7 +63,7 @@
 
 - Clone the repo. 
 
-`git clone https://github.com/The-LegendBot/LEGENDUSERBOT.git`
+`git clone https://github.com/Roninopp/LEGENDUSERBOT.git`
 - Open Cloned Folder.
 
 `cd LEGENDUSERBOT`
@@ -148,7 +148,7 @@
 
 LEGEND-OS
 
-Poject [LEGENDBOT](https://github.com/LEGEND-OS/LEGENDBOT) is free software: you can redistribute it and/or modify
+Poject [LEGENDBOT](https://github.com/Roninopp/LEGENDBOT) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
